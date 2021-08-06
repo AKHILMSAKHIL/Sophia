@@ -61,7 +61,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Hisham-Muhammed/Sophia
+$ git clone https://github.com/AKHILMSAKHIL/Sophia
 $ cd sophia
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -71,7 +71,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Hisham-Muhammed/Sophia
+$ git clone https://github.com/AKHILMSAKHIL/Sophia
 $ cd sophia
 $ chmod +x *
 $ npm i
